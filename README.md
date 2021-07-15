@@ -1,2 +1,2 @@
 # reciclica-app
-angular
+ionic 
